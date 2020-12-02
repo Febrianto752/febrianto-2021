@@ -3,6 +3,8 @@ Rencana belajar skil baru 1 :
     codeigniter
     Yii
     laravel
-    Pariatur ratione explicabo veniam est rem perspiciatis culpa maxime voluptatibus?
-    javascript framework : 
+fitur-2
+  javascript framework : 
     vue
+    react js
+  main
