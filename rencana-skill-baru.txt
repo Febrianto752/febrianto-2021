@@ -1,5 +1,8 @@
 Rencana belajar skil baru 1 : 
   php framework : 
     codeigniter
+    Yii
     laravel
     Pariatur ratione explicabo veniam est rem perspiciatis culpa maxime voluptatibus?
+    javascript framework : 
+    vue
