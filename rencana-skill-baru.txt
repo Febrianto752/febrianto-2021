@@ -4,3 +4,4 @@ Rencana belajar skil baru 1 :
     laravel
   javascript framework : 
     vue
+    react js
