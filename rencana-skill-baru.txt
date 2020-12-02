@@ -1,3 +1,4 @@
 Rencana belajar skil baru 1 : 
+  codeigniter
   laravel
   Pariatur ratione explicabo veniam est rem perspiciatis culpa maxime voluptatibus?
