@@ -1,7 +1,10 @@
 Rencana belajar skil baru 1 : 
   php framework : 
     codeigniter
+    Yii
     laravel
+fitur-2
   javascript framework : 
     vue
     react js
+  main
