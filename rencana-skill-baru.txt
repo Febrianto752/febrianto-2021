@@ -1,4 +1,5 @@
 Rencana belajar skil baru 1 : 
-  codeigniter
-  laravel
-  Pariatur ratione explicabo veniam est rem perspiciatis culpa maxime voluptatibus?
+  php framework : 
+    codeigniter
+    laravel
+    Pariatur ratione explicabo veniam est rem perspiciatis culpa maxime voluptatibus?
